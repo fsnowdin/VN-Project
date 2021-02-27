@@ -1,0 +1,109 @@
+title: Start
+---
+<<cgNext 1>>
+"O <color="green">Clementi</color>..."
+"O <color="green">Clementi</color>, we come to you for we have wronged..."
+"O <color="green">Clementi</color>, we come to you with shame in our hearts..."
+"O <color="green">Clementi</color>, we come to you again."
+"O <color="green">Clementi</color>, for this day show us thy mercy..."
+"O <color="green">Clementi</color>, shield our fall from grace and carry us back into the light..."
+"O <color="green">Clementi</color>, forgive us our missteps."
+
+<<cgPrevious 0.5>>
+
+<<vfxActivate Orbs>>
+
+"Once, we lived in the city."
+
+"Once, the city sheltered and nurtured."
+
+"Once, we lived in the city of hope."
+
+"..."
+
+// 2nd City CG
+
+"Then, the city rot."
+
+"Then, thugs infected the once peaceful street, pollution infected the once green environment, and corruption infected the once noble political ranks."
+
+"Then, the city became no more than crumbles of past dreams."
+
+"..."
+
+<<vfxDeactivate Orbs>>
+
+<<cgNext 0.5>>
+// First time writing the <color="red">Amnous</color>' Prayer
+"O <color="red">Amnous</color>..."
+"O <color="red">Amnous</color>, we tremble before thy name."
+"For thy presence brings forth damnation in those rearing malice."
+"O <color="red">Amnous</color>, we pray before thy name..."
+"For thy torture of the wicked stray us off the path of chaos."
+"O <color="red">Amnous</color>, we kneel before thy name."
+"For thy infliction, too, is thy love."
+
+// Mayor whispers CG
+
+<<cgPrevious 1.0>>
+<<vfxActivate Orbs>>
+"Then..."
+
+"Then, amidst the chaos, the <b>Sisters</b> whispered..."
+
+"Then, heeding the <b>Sisters</b>' call, our Mayor the Messenger gathered us, chosen ones among the elites of the city."
+
+"Then, we prepared for our grand undertaking..."
+
+<<cgNext 1>>
+<<vfxDeactivate Orbs>>
+// Intris, Goddess of Karma, Prayer
+"O <color="blue">Intris</color>..."
+// The personification of the Karma system
+// "O Intris, we thank you for the gifts you brought into our lives."
+"O <color="blue">Intris</color>, we thank you for a bright future you brought into our darkest hours."
+"O <color="blue">Intris</color>, we thank you for the chance to be one of thy pupils through our good labor."
+"O <color="blue">Intris</color>, we thank you for upholding the good and putting down the bad."
+"O <color="blue">Intris</color>, we thank you for a lifetime under thy justice."
+
+<<vfxActivate Orbs>>
+<<cgPrevious 1.0>>
+// A brief about the 3 pillars, the two leaders, the island, and the Arrival.
+"Through the <b>Sisters'</b> guidance, relayed to us by our Mayor the Messenger..."
+"We escaped the city and ventured to the holy island the <b>Sisters</b> had designated."
+"In time, the town of Eden arose."
+"With their foresight, the <b>Sisters</b> decreed the 3 Pillars to mold the remainder of our lives in this new world."
+
+"The First Pillar..."
+"The <b>Sisters</b> grant us their infinite mercy..."
+"Everyone's material needs shall be taken care of, so none will starve or have their cries for help unheard of."
+"Even those who wrong shall be forgiven and be given their second chance."
+"The Second Pillar..."
+"Those who stay on the Path of Chaos and avoid redemption shall face the worst of fates under the public's hands at the Scarlet Square, in the <b>Sisters</b>' presence."
+// Should review this part
+"The Third Pillar..."
+"Eden shall be governed under the Karma system."
+"Those who do good work and share their faith shall be rewarded proportionate to their contribution."
+"However, those who leave the Path of Order for too long will have their lives slowly crippled until they learn better, or face the Scarlet Square."
+
+"..."
+
+"Now."
+
+"Under the leadership of the Mayor Victor and Lady Amira..."
+
+"We work towards the Arrival, where the <b>Sisters</b> shall eliminate Chaos, perfect humanity, and create a world of order."
+
+"Now." 
+
+"We can hope once more."
+<<cgNext 0.75>>
+<<vfxDeactivate Orbs>>
+
+"O <b>Sisters</b>..."
+"<b>Camon.</b>"
+<<cgSet 4 3>>
+<<hideBox>>
+<<wait 5>>
+<<nextScene Assets/Scenes/Town/Day1/Morning.unity 2>>
+===

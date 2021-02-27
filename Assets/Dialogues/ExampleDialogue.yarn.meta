@@ -1,0 +1,70 @@
+fileFormatVersion: 2
+guid: 55793fb96a1d3c64c8475532a3c7e267
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 15f3f4e3d041aec4496b32460cdfc4b3, type: 3}
+  baseLanguageID: 
+  stringIDs:
+  - IntroPrayer-Start-0
+  - IntroPrayer-Start-1
+  - IntroPrayer-Start-2
+  - IntroPrayer-Start-3
+  - IntroPrayer-Start-4
+  - IntroPrayer-Start-5
+  - IntroPrayer-Start-6
+  - IntroPrayer-Start-7
+  - IntroPrayer-Start-8
+  - IntroPrayer-Start-9
+  - IntroPrayer-Start-10
+  - IntroPrayer-Start-11
+  - IntroPrayer-Start-12
+  - IntroPrayer-Start-13
+  - IntroPrayer-Start-14
+  - IntroPrayer-Start-15
+  - IntroPrayer-Start-16
+  - IntroPrayer-Start-17
+  - IntroPrayer-Start-18
+  - IntroPrayer-Start-19
+  - IntroPrayer-Start-20
+  - IntroPrayer-Start-21
+  - IntroPrayer-Start-22
+  - IntroPrayer-Start-23
+  - IntroPrayer-Start-24
+  - IntroPrayer-Start-25
+  - IntroPrayer-Start-26
+  - IntroPrayer-Start-27
+  - IntroPrayer-Start-28
+  - IntroPrayer-Start-29
+  - IntroPrayer-Start-30
+  - IntroPrayer-Start-31
+  - IntroPrayer-Start-32
+  - IntroPrayer-Start-33
+  - IntroPrayer-Start-34
+  - IntroPrayer-Start-35
+  - IntroPrayer-Start-36
+  - IntroPrayer-Start-37
+  - IntroPrayer-Start-38
+  - IntroPrayer-Start-39
+  - IntroPrayer-Start-40
+  - IntroPrayer-Start-41
+  - IntroPrayer-Start-42
+  - IntroPrayer-Start-43
+  - IntroPrayer-Start-44
+  - IntroPrayer-Start-45
+  - IntroPrayer-Start-46
+  - IntroPrayer-Start-47
+  - IntroPrayer-Start-48
+  - IntroPrayer-Start-49
+  - IntroPrayer-Start-50
+  - IntroPrayer-Start-51
+  - IntroPrayer-Start-52
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {instanceID: 0}
+  localizations: []
